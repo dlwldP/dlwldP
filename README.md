@@ -1,6 +1,9 @@
 👋 Hi, I’m @dlwldP
 =================================
-- 🌱 I’m currently learning Java, Python, HTML, CSS, JS.
+- 🌱 I’m currently learning Java, Python, Kotlin.
+- 👀 
+- 💞️ 
+- 📫 jiye7961@gmail.com
 -----------------------------------------------------------------
 
 <!---
