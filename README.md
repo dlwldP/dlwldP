@@ -21,7 +21,16 @@
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
- 
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+
+  <!-- Kotlin -->
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
   
   ### Library
 
@@ -30,9 +39,9 @@
 
   
   ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon%20AWS&logoColor=white"/>
+
   <!--Docker-->
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker">
  
@@ -49,12 +58,12 @@
 </div>
 
 <!--
-**dlwldP/dlwldP_02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dlwldP/dlwldP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on "Cloud"
+- 🌱 I’m currently learning "AWS"
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
