@@ -54,6 +54,9 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwldP)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwldP)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![dlwldP's GitHub stats](https://github-readme-stats.vercel.app/api?username=①아이디&show_icons=true&theme=default)
+
   
 </div>
 
