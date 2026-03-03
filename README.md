@@ -50,11 +50,11 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwldP&layout=compact)
+## 🤔 Github Stats
 
-![dlwldP's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwldP&show_icons=true&theme=default)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dlwldP&theme=default)
+
+![dlwldP's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dlwldP&theme=default)
 
   
 </div>
