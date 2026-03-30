@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontSize=40)
 
-🌐 Portfolio: https://dlwldp.github.io/porfolio/
+🌐 Portfolio: [[https://dlwldp.github.io/porfolio/](https://dlwldp.github.io/porfolio/)](https://dlwldp.github.io/porfolio/)
 
 ## 👀 About Me
 
