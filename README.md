@@ -48,4 +48,12 @@
 
 <br/>
 
+## 📊 AI Token Usage
+
+<p align="center">
+  <a href="https://tokscale.ai/dlwldP">
+    <img src="https://tokscale.ai/api/badge/dlwldP/svg" alt="Tokscale Badge" />
+  </a>
+</p>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
