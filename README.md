@@ -43,8 +43,6 @@
 <br/>
 
 ## 📊 GitHub Stats
-> 아래는 GitHub Action으로 생성한 카드 예시예요. Vercel 호스팅 API는 별 개수 기준 상위 100개 저장소만 집계해서 정확도가 떨어지므로, [github-profile-summary-cards Action](https://github.com/marketplace/actions/github-profile-summary-cards)을 본인 레포에 설정해서 전체 저장소 기준으로 생성한 SVG를 커밋해 두는 방식을 권장해요. 설정 후에는 아래 경로를 본인 레포 경로로 교체하세요.
-
 ![Top Langs](https://raw.githubusercontent.com/dlwldP/dlwldP/main/profile-summary-card-output/default/1-repos-per-language.svg)
 ![GitHub stats](https://raw.githubusercontent.com/dlwldP/dlwldP/main/profile-summary-card-output/default/3-stats.svg)
 
