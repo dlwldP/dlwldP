@@ -51,7 +51,7 @@
 ## 📊 AI Token Usage
 
 <p align="center">
-  <a href="https://tokscale.ai/dlwldP">
+  <a href="https://tokscale.ai/u/dlwldP">
     <img src="https://tokscale.ai/api/badge/dlwldP/svg" alt="Tokscale Badge" />
   </a>
 </p>
