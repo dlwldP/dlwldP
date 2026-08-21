@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # 24시간마다 실행
-    - cron: "0 0 * * *"
-  workflow_dispatch: # 수동 실행 버튼도 사용 가능
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,4 +20,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
-          THEME: "default"
+          UTC_OFFSET: 8
