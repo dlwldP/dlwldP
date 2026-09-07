@@ -54,4 +54,4 @@
 
 * 📧 **이메일** — jiye7961@gmail.com
 * 🌐 **포트폴리오** — https://dlwldp.github.io
-* 🎯 **기술블로그** - https://velog.io/@jiye_1124/posts
+* 🎯 **기술블로그** — https://velog.io/@jiye_1124/posts
