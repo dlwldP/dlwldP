@@ -2,7 +2,7 @@
 * 🎯 클라우드 인프라와 AI 기술을 함께 다루는 Cloud AI Engineer를 목표로 하고 있습니다.
 * ☁️ 클라우드 인프라, VDI/가상화, 풀스택 개발 등 다양한 기술을 경험했습니다.
 * 🖥️ ASP.NET Core와 Spring Boot를 활용한 백엔드 개발 및 React 기반 프론트엔드 개발 경험이 있습니다.
-* 🧩 Kubernetes 기반 컨테이너 플랫폼(KubeVirt, Harbor, Longhorn)과 VMware, Citrix, Nutanix 등 엔터프라이즈 가상화 환경을 다뤄왔습니다.
+* 🧩 Kubernetes 기반 컨테이너 플랫폼(KubeVirt, Harbor, Longhorn)과 VMware 등 엔터프라이즈 가상화 환경을 다뤄왔습니다.
 * 🤖 LangChain/LangGraph, RAG Pipeline, FastAPI 등을 활용한 AI 애플리케이션 개발도 경험했습니다.
 
 <br/>
