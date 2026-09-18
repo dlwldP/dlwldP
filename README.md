@@ -1,35 +1,63 @@
 ## 👀 소개
-* 🎯 클라우드 인프라와 AI 기술을 함께 다루는 Cloud AI Engineer를 목표로 하고 있습니다.
-* ☁️ 클라우드 인프라, VDI/가상화, 풀스택 개발 등 다양한 기술을 경험했습니다.
-* 🖥️ ASP.NET Core와 Spring Boot를 활용한 백엔드 개발 및 React 기반 프론트엔드 개발 경험이 있습니다.
-* 🧩 Kubernetes 기반 컨테이너 플랫폼(KubeVirt, Harbor, Longhorn)과 VMware 등 엔터프라이즈 가상화 환경을 다뤄왔습니다.
-* 🤖 LangChain/LangGraph, RAG Pipeline, FastAPI 등을 활용한 AI 애플리케이션 개발도 경험했습니다.
+* 🎓 한성대학교 모바일소프트웨어(빅데이터) 전공 
+* 🎯 개발자 
+* ⚙️ Spring Boot, ASP.NET Core 기반 백엔드 개발 경험
+* ☁️ VDI, Kubernetes, Harbor, VMware, Linux 등 클라우드/가상화 인프라 경험
+* 🧩 백엔드 · 프론트엔드(React) · AI 애플리케이션(LangChain/LangGraph, RAG, FastAPI) 개발 경험
+* 🌱 백엔드 + 클라우드 인프라 공부 중
 
 <br/>
 
 ## 🧱 기술
 
-### 언어
+### 백엔드
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-
-### 프레임워크
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
-### 인프라
+### 클라우드 · 인프라
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white)
-![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=Harbor&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 
-### 데이터
+### 프론트엔드 · 데이터
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+
+<br/>
+
+## 🚀 Projects
+
+### rfp-match — 보안입찰 RFP 매칭
+* 요구사항 · 제품 스펙 갭분석 자동화 (2026.09)
+* 입찰공고 Open API 키워드 폴링·캐싱, 요구사항/제품 스펙 CRUD
+* [GitHub](https://github.com/dlwldP/rfp-match)
+
+### sales — 멀티클라우드 견적 자동화
+* AWS · Azure · GCP 가격 API 비교 견적 (2026.09)
+* 워크로드 스펙 입력 → 벤더별 월 비용 자동 산출·비교, 견적 이력 저장, PDF 견적서 내보내기
+* [GitHub](https://github.com/dlwldP/sales)
+
+### stock-monitor
+* 증권사 Open API 연동 관심종목 알림 · 자산 대시보드 (2026.08)
+* 관심종목 시세/손익, 보유종목, 자산 추이 대시보드, 캔들 차트 자체 SVG 렌더링
+* 6가지 알림 규칙(목표가·등락률·거래량 급증·신고가/신저가) → 디스코드/이메일/인앱 발송
+* Mock/실 API 구현체 분리로 키 없이도 전 기능 동작, 실계좌 연동 검증 완료
+* [GitHub](https://github.com/dlwldP/stock-monitor)
+
+### Deploy-gate
+* claims 기반 인프라 배포 승인 게이트 (2026.07 – 2026.08)
+* 저장소 write 권한과 배포 권한 분리, 스택별 승인 단계 차등 적용(즉시 배포/1인/2인)
+* [GitHub](https://github.com/dlwldP/Deploy-gate)
+
+### SWYP 웹 13기
+* 자취방 계약 체크리스트 서비스 (2026.03 – 2026.05, 백엔드 4인)
+* Naver·Google OAuth2 소셜 로그인 및 JWT 발급/검증/갱신 구현
+* AWS EC2 프로비저닝, Elastic IP 고정, DNS 연동, local/prod 프로파일 분리
 
 <br/>
 
@@ -50,8 +78,6 @@
 <br/>
 
 ## 📬 Contact
-클라우드, AI, 백엔드 개발 및 다양한 기술에 관심이 있습니다.
-
-* 📧 **이메일** — jiye7961@gmail.com
-* 🌐 **포트폴리오** — https://dlwldp.github.io
-* 🎯 **기술블로그** — https://velog.io/@jiye_1124/posts
+* 📧 이메일 — jiye7961@gmail.com
+* 🌐 포트폴리오 — https://dlwldp.github.io
+* 🎯 기술블로그 — https://velog.io/@jiye_1124/posts
