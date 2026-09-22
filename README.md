@@ -37,11 +37,6 @@
 * 입찰공고 Open API 키워드 폴링·캐싱, 요구사항/제품 스펙 CRUD
 * [GitHub](https://github.com/dlwldP/rfp-match)
 
-### sales — 멀티클라우드 견적 자동화
-* AWS · Azure · GCP 가격 API 비교 견적 (2026.09)
-* 워크로드 스펙 입력 → 벤더별 월 비용 자동 산출·비교, 견적 이력 저장, PDF 견적서 내보내기
-* [GitHub](https://github.com/dlwldP/sales)
-
 ### stock-monitor
 * 증권사 Open API 연동 관심종목 알림 · 자산 대시보드 (2026.08)
 * 관심종목 시세/손익, 보유종목, 자산 추이 대시보드, 캔들 차트 자체 SVG 렌더링
