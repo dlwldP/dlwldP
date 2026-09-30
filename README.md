@@ -1,6 +1,4 @@
 ## 👀 소개
-* 🎓 한성대학교 모바일소프트웨어(빅데이터) 전공 
-* 🎯 개발자 
 * ⚙️ Spring Boot, ASP.NET Core 기반 백엔드 개발 경험
 * ☁️ VDI, Kubernetes, Harbor, VMware, Linux 등 클라우드/가상화 인프라 경험
 * 🧩 백엔드 · 프론트엔드(React) · AI 애플리케이션(LangChain/LangGraph, RAG, FastAPI) 개발 경험
