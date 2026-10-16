@@ -6,6 +6,11 @@
 
 <br/>
 
+## 💼 Experience
+업데이트 예정
+
+<br/>
+
 ## 🧱 기술
 
 ### 백엔드
@@ -30,27 +35,29 @@
 
 ## 🚀 Projects
 
-### rfp-match — 보안입찰 RFP 매칭
-* 요구사항 · 제품 스펙 갭분석 자동화 (2026.09)
-* 입찰공고 Open API 키워드 폴링·캐싱, 요구사항/제품 스펙 CRUD
-* [GitHub](https://github.com/dlwldP/rfp-match)
+### 🔍 [KubeLens](https://github.com/dlwldP/KubeLens) — 자연어 Kubernetes 장애 진단 에이전트 `2026.10`
+> "왜 이 파드가 계속 죽어?"라고 물으면, **조회만 해서** 근거가 붙은 원인 후보를 보여줍니다.
+* **Read-only를 두 겹으로 보장** — 쓰기·Secret·exec 권한 없는 RBAC + get/list만 노출하는 도구 레이어, 쓰기 API 호출이 소스에 없는지 AST로 테스트
+* **증거 없는 주장 금지** — 모든 원인 후보가 실제 도구 호출 ID를 인용해야 통과, 아니면 재생성
+* **정확도를 측정 가능하게** — kind 클러스터에 장애 6종(CrashLoop, OOMKilled, ImagePull 등)을 재현하고 자동 채점하는 평가 하네스
+* LLM 전달 전 토큰·키·JWT·PEM 마스킹(속성 기반 테스트로 검증), SSE 실시간 트레이스 UI
+* `LangGraph` `FastAPI` `React` `kind` `GitHub Actions`
 
-### stock-monitor
-* 증권사 Open API 연동 관심종목 알림 · 자산 대시보드 (2026.08)
-* 관심종목 시세/손익, 보유종목, 자산 추이 대시보드, 캔들 차트 자체 SVG 렌더링
+### 📈 [stock-monitor](https://github.com/dlwldP/stock-monitor) — 관심종목 알림 · 자산 대시보드 `2026.08`
 * 6가지 알림 규칙(목표가·등락률·거래량 급증·신고가/신저가) → 디스코드/이메일/인앱 발송
-* Mock/실 API 구현체 분리로 키 없이도 전 기능 동작, 실계좌 연동 검증 완료
-* [GitHub](https://github.com/dlwldP/stock-monitor)
+* **Mock / 실 API 구현체 분리**로 키 없이도 전 기능 동작, 실계좌 연동까지 검증
+* 캔들 차트를 라이브러리 없이 SVG로 직접 렌더링
+* `Spring Boot` `Java` `증권사 Open API`
 
-### Deploy-gate
-* claims 기반 인프라 배포 승인 게이트 (2026.07 – 2026.08)
-* 저장소 write 권한과 배포 권한 분리, 스택별 승인 단계 차등 적용(즉시 배포/1인/2인)
-* [GitHub](https://github.com/dlwldP/Deploy-gate)
+### 🚦 [Deploy-gate](https://github.com/dlwldP/Deploy-gate) — claims 기반 배포 승인 게이트 `2026.07 – 08`
+* CI/CD 배포 직전에 호출되는 인가 서비스
+* **저장소 write 권한 ≠ 배포 권한**으로 분리, 스택별 승인 단계 차등(즉시 / 1인 / 2인 승인)
+* `Spring Boot` `Java`
 
-### SWYP 웹 13기
-* 자취방 계약 체크리스트 서비스 (2026.03 – 2026.05, 백엔드 4인)
-* Naver·Google OAuth2 소셜 로그인 및 JWT 발급/검증/갱신 구현
-* AWS EC2 프로비저닝, Elastic IP 고정, DNS 연동, local/prod 프로파일 분리
+### 🏠 SWYP 웹 13기 — 자취방 계약 체크리스트 서비스 `2026.03 – 05` · 팀 프로젝트
+* Naver·Google **OAuth2 소셜 로그인**, JWT 발급·검증·갱신 담당
+* AWS EC2 프로비저닝, Elastic IP·DNS 연동, local/prod 프로파일 분리로 배포 인프라 구성
+* `Spring Boot` `AWS` · [서비스 바로가기](https://bangcheck.site)
 
 <br/>
 
