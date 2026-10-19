@@ -35,6 +35,15 @@
 
 ## 🚀 Projects
 
+### 💸 [AWS 얼마야?](https://github.com/dlwldP/Awscal) — 초보자용 AWS 비용 계산기 `2026.10`
+> "하고 싶은 것"을 고르면 필요한 AWS 구성과 예상 월 비용을 비교해줍니다. · [바로 써보기](https://dlwldp.github.io/Awscal/)
+* 목적별 템플릿 4종 × 규모 프리셋 3종 × 리전 2곳, 구성안 2~3개를 항목별 금액과 함께 비교
+* **숨은 비용 경고**: 퍼블릭 IPv4, NAT Gateway, 데이터 전송, 상시 실행, Multi-AZ 등 초보자가 놓치는 과금 항목을 알려줌
+* EC2·RDS·Lambda·S3 등 15종 서비스를 직접 담아 계산하는 계산기, 사용 시간·옵션 조정 지원
+* **AWS Price List API로 주 1회 가격 자동 갱신**: 수집 → 테스트 → 커밋 → 재배포를 GitHub Actions로 자동화하고, 실패하면 기존 가격 유지
+* 서버 없이 순수 HTML/JS로 만들어 GitHub Pages에 배포(테스트 통과 시에만 배포)
+* `JavaScript` `Python` `GitHub Actions` `GitHub Pages`
+
 ### 🔍 [KubeLens](https://github.com/dlwldP/KubeLens) — 자연어 Kubernetes 장애 진단 에이전트 `2026.10`
 > "왜 이 파드가 계속 죽어?"라고 물으면, **조회만 해서** 근거가 붙은 원인 후보를 보여줍니다.
 * **Read-only를 두 겹으로 보장** — 쓰기·Secret·exec 권한 없는 RBAC + get/list만 노출하는 도구 레이어, 쓰기 API 호출이 소스에 없는지 AST로 테스트
