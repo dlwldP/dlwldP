@@ -37,9 +37,9 @@
 
 ### 💸 [AWS 얼마야?](https://github.com/dlwldP/Awscal) — 초보자용 AWS 비용 계산기 `2026.10`
 > "하고 싶은 것"을 고르면 필요한 AWS 구성과 예상 월 비용을 비교해줍니다. · [바로 써보기](https://dlwldp.github.io/Awscal/)
-* 목적별 템플릿 4종 × 규모 프리셋 3종 × 리전 2곳, 구성안 2~3개를 항목별 금액과 함께 비교
+* 목적별 템플릿 5종 × 규모 프리셋 3종 × 리전 6곳, 구성안 2~3개를 항목별 금액과 함께 비교
 * **숨은 비용 경고**: 퍼블릭 IPv4, NAT Gateway, 데이터 전송, 상시 실행, Multi-AZ 등 초보자가 놓치는 과금 항목을 알려줌
-* EC2·RDS·Lambda·S3 등 15종 서비스를 직접 담아 계산하는 계산기, 사용 시간·옵션 조정 지원
+* EC2·RDS·Lambda·S3 등 16종 서비스를 직접 담아 계산하는 계산기, 사용 시간·옵션 조정 지원
 * **AWS Price List API로 주 1회 가격 자동 갱신**: 수집 → 테스트 → 커밋 → 재배포를 GitHub Actions로 자동화하고, 실패하면 기존 가격 유지
 * 서버 없이 순수 HTML/JS로 만들어 GitHub Pages에 배포(테스트 통과 시에만 배포)
 * `JavaScript` `Python` `GitHub Actions` `GitHub Pages`
