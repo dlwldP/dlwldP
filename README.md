@@ -1,8 +1,11 @@
 ## 👀 소개
-* ⚙️ Spring Boot, ASP.NET Core 기반 백엔드 개발 경험
-* ☁️ VDI, Kubernetes, Harbor, VMware, Linux 등 클라우드/가상화 인프라 경험
-* 🧩 백엔드 · 프론트엔드(React) · AI 애플리케이션(LangChain/LangGraph, RAG, FastAPI) 개발 경험
-* 🌱 백엔드 + 클라우드 인프라 공부 중
+**백엔드부터 배포·운영까지 다루는 개발자입니다.**
+
+* ⚙️ **백엔드** — Spring Boot, ASP.NET Core 기반 API · 서비스 개발
+* ☁️ **인프라** — Kubernetes, Harbor, VMware, VDI, Linux 등 컨테이너 · 가상화 환경 구축과 운영
+* 🏢 **현재** — ERP 개발
+* 🌱 **집중하는 것** — 백엔드 + 클라우드 인프라
+* 🌐 **포트폴리오** — https://dlwldp.github.io
 
 <br/>
 
