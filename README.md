@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:6DB33F&height=180&section=header&text=dlwldP&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=326CE5&center=true&vCenter=true&width=520&lines=Backend+%26+Cloud+Infra+Developer;Spring+Boot+%7C+Kubernetes+%7C+AWS;From+API+to+Deployment+%26+Operations" alt="Typing SVG" />
+</p>
+
 ## 👀 소개
 **백엔드부터 배포·운영까지 다루는 개발자입니다.**
 
@@ -73,9 +81,22 @@
 
 <br/>
 
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [더 많은 글 보기](https://velog.io/@jiye_1124/posts)
+
+<br/>
+
 ## 📊 GitHub 통계
 ![Top Langs](https://raw.githubusercontent.com/dlwldP/dlwldP/main/profile-summary-card-output/default/1-repos-per-language.svg)
 ![GitHub stats](https://raw.githubusercontent.com/dlwldP/dlwldP/main/profile-summary-card-output/default/3-stats.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dlwldP/dlwldP/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/dlwldP/dlwldP/output/github-snake.svg" />
+</picture>
 
 <br/>
 
@@ -93,3 +114,7 @@
 * 📧 이메일 — jiye7961@gmail.com
 * 🌐 포트폴리오 — https://dlwldp.github.io
 * 🎯 기술블로그 — https://velog.io/@jiye_1124/posts
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:326CE5&height=120&section=footer" alt="footer" />
+</p>
