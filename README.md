@@ -83,6 +83,11 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [오픽 2주 준비로 IH 받은 후기 &lpar;공부법 + 시험장 팁&rpar;](https://velog.io/@jiye_1124/%EC%98%A4%ED%94%BD-2%EC%A3%BC-%EC%A4%80%EB%B9%84%EB%A1%9C-IH-%EB%B0%9B%EC%9D%80-%ED%9B%84%EA%B8%B0-%EA%B3%B5%EB%B6%80%EB%B2%95-%EC%8B%9C%ED%97%98%EC%9E%A5-%ED%8C%81)
+- [&quot;2026년 10월, 지금 나는 어디쯤 와 있을까&quot;](https://velog.io/@jiye_1124/2026%EB%85%84-10%EC%9B%94-%EC%A7%80%EA%B8%88-%EB%82%98%EB%8A%94-%EC%96%B4%EB%94%94%EC%AF%A4-%EC%99%80-%EC%9E%88%EC%9D%84%EA%B9%8C)
+- [AI 뭐 써? 2편 — 개발자용으로 넓히고, AI에게 데이터를 맡기기 전에 정한 것들](https://velog.io/@jiye_1124/AI-%EB%AD%90-%EC%8D%A8-2%ED%8E%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EB%84%93%ED%9E%88%EA%B3%A0-AI%EC%97%90%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%A7%A1%EA%B8%B0%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%A0%95%ED%95%9C-%EA%B2%83%EB%93%A4)
+- [AI 뭐 써? — 목적을 고르면 AI 툴 2~3개를 추천해주는 사이트를 만들며](https://velog.io/@jiye_1124/AI-%EB%AD%90-%EC%8D%A8-%EB%AA%A9%EC%A0%81%EC%9D%84-%EA%B3%A0%EB%A5%B4%EB%A9%B4-AI-%ED%88%B4-23%EA%B0%9C%EB%A5%BC-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%A9%B0)
+- [# &quot;AWS 얼마야?&quot; 2편 — 기능을 더하다가, 덜어내는 법을 배웠다](https://velog.io/@jiye_1124/AWS-%EC%96%BC%EB%A7%88%EC%95%BC-2%ED%8E%B8-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%8D%94%ED%95%98%EB%8B%A4%EA%B0%80-%EB%8D%9C%EC%96%B4%EB%82%B4%EB%8A%94-%EB%B2%95%EC%9D%84-%EB%B0%B0%EC%9B%A0%EB%8B%A4)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [더 많은 글 보기](https://velog.io/@jiye_1124/posts)
