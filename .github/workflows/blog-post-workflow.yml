@@ -1,0 +1,20 @@
+name: Latest velog posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6시간마다
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://v2.velog.io/rss/jiye_1124"
+          max_post_count: 5
+          commit_message: "docs: update latest blog posts"
