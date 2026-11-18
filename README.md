@@ -47,13 +47,25 @@
 ## 🚀 Projects
 
 ### 💸 [AWS 얼마야?](https://github.com/dlwldP/Awscal) — 초보자용 AWS 비용 계산기 `2026.10`
-> "하고 싶은 것"을 고르면 필요한 AWS 구성과 예상 월 비용을 비교해줍니다. · [바로 써보기](https://dlwldp.github.io/Awscal/)
+> "하고 싶은 것"을 고르면 필요한 AWS 구성과 예상 월 비용을 비교해줍니다. · [바로 써보기](https://dlwldp.github.io/Awscal/?utm_source=github-profile)
 * 목적별 템플릿 6종 × 규모 프리셋 3종 × 리전 6곳, 구성안 2~3개를 항목별 금액과 함께 비교
-* **숨은 비용 경고**: 퍼블릭 IPv4, NAT Gateway, 데이터 전송, 상시 실행, Multi-AZ 등 초보자가 놓치는 과금 항목을 알려줌
+* **숨은 비용 경고**: 퍼블릭 IPv4, NAT Gateway, 데이터 전송, 상시 실행, Multi-AZ 등 초보자가 놓치는 과금 항목을 금액과 함께 알려줌
 * EC2·RDS·Lambda·S3·Bedrock 등 17종 서비스를 직접 담아 계산하는 계산기, 사용 시간·옵션 조정 지원
+* **견적 공유**: 조건과 직접 바꾼 값까지 링크에 담아 공유하고, 슬랙·카카오톡용 요약 복사 지원. 미리보기 제목에 견적 금액이 보이는 공유 페이지를 배포 때 자동 생성
+* 추천 구성별 단계 가이드, 비용 감각 퀴즈, 용어 사전으로 처음 쓰는 사람도 따라갈 수 있게 구성
 * **AWS Price List API로 주 1회 가격 자동 갱신**: 수집 → 테스트 → 커밋 → 재배포를 GitHub Actions로 자동화하고, 실패하면 기존 가격 유지
-* 서버 없이 순수 HTML/JS로 만들어 GitHub Pages에 배포(테스트 통과 시에만 배포)
+* 서버 없이 순수 HTML/JS로 만들어 GitHub Pages에 배포(테스트 통과 시에만 배포), 쿠키 없는 방문 분석(GoatCounter)
 * `JavaScript` `Python` `GitHub Actions` `GitHub Pages`
+
+### 🤖 [AI 뭐 써?](https://github.com/dlwldP/which-ai) — 하고 싶은 일별 AI 도구 모음 `2026.10`
+> "이미지 만들 땐 뭐가 있지?"에 답해줍니다. 용도별로 쓸 수 있는 AI를 최대한 많이 모아 무료인지, 어떻게 쓰는지만 짧게 보여줍니다. · [바로 써보기](https://dlwldp.github.io/which-ai/?utm_source=github-profile) · [개발자용](https://dlwldp.github.io/which-ai/dev/?utm_source=github-profile)
+* 비개발자용 115개를 글쓰기·회의·이미지·영상·AI 비서 5가지 용도로 정리하고, 찾기·무료만 보기·설치 없이 쓰기 조건으로 좁히기
+* **개발자용 178개**: 코드 짜기부터 백엔드·배포까지 5단계마다 회사 서비스(37), 오픈소스(119), 공개 모델(22)로 묶어 라이선스 근거와 함께 제공
+* **가격은 공식 문장으로만**: AI가 공식 페이지를 읽고 초안을 쓰면, 스크립트가 근거 문장을 저장한 공식 페이지 글자와 대조해 통과한 것만 반영. 모르면 "가격 확인 필요"로 표시
+* **주간 자동 점검**: 확인한 지 90일이 지난 도구와 깨진 링크를 GitHub Actions가 Issue로 모으고, 주간 요약 생성
+* 사이트에서 AI를 부르지 않는 규칙 기반 정렬, 광고·제휴 없음, 쿠키 없는 방문 분석(GoatCounter)
+* 서버·외부 패키지 없이 순수 HTML/JS로 만들어 GitHub Pages에 배포, 운영비 0원
+* `JavaScript` `GitHub Actions` `GitHub Pages`
 
 ### 🔍 [KubeLens](https://github.com/dlwldP/KubeLens) — 자연어 Kubernetes 장애 진단 에이전트 `2026.10`
 > "왜 이 파드가 계속 죽어?"라고 물으면, **조회만 해서** 근거가 붙은 원인 후보를 보여줍니다.
@@ -68,11 +80,6 @@
 * **Mock / 실 API 구현체 분리**로 키 없이도 전 기능 동작, 실계좌 연동까지 검증
 * 캔들 차트를 라이브러리 없이 SVG로 직접 렌더링
 * `Spring Boot` `Java` `증권사 Open API`
-
-### 🚦 [Deploy-gate](https://github.com/dlwldP/Deploy-gate) — claims 기반 배포 승인 게이트 `2026.07 – 08`
-* CI/CD 배포 직전에 호출되는 인가 서비스
-* **저장소 write 권한 ≠ 배포 권한**으로 분리, 스택별 승인 단계 차등(즉시 / 1인 / 2인 승인)
-* `Spring Boot` `Java`
 
 ### 🏠 SWYP 웹 13기 — 자취방 계약 체크리스트 서비스 `2026.03 – 05` · 팀 프로젝트
 * Naver·Google **OAuth2 소셜 로그인**, JWT 발급·검증·갱신 담당
