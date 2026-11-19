@@ -6,37 +6,37 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=326CE5&center=true&vCenter=true&width=520&lines=Backend+%26+Cloud+Infra+Developer;Spring+Boot+%7C+Kubernetes+%7C+AWS;From+API+to+Deployment+%26+Operations" alt="Typing SVG" />
 </p>
 
-## 👀 소개
-**백엔드부터 배포·운영까지 다루는 개발자입니다.**
+## 👀 About Me
+**A developer who works across the stack — from backend to deployment and operations.**
 
-* ⚙️ **백엔드** — Spring Boot, ASP.NET Core 기반 API · 서비스 개발
-* ☁️ **인프라** — Kubernetes, Harbor, VMware, VDI, Linux 등 컨테이너 · 가상화 환경 구축과 운영
-* 🏢 **현재** — ERP 개발
-* 🌱 **집중하는 것** — 백엔드 + 클라우드 인프라
-* 🌐 **포트폴리오** — https://dlwldp.github.io
+* ⚙️ **Backend** — API and service development with Spring Boot and ASP.NET Core
+* ☁️ **Infrastructure** — Building and operating container and virtualization environments with Kubernetes, Harbor, VMware, VDI, and Linux
+* 🏢 **Currently** — ERP development
+* 🌱 **Focus** — Backend + cloud infrastructure
+* 🌐 **Portfolio** — https://dlwldp.github.io
 
 <br/>
 
 ## 💼 Experience
-업데이트 예정
+* 🎓 **Hansung University** — Mobile Software & Big Data · Graduated `2026.02`
 
 <br/>
 
-## 🧱 기술
+## 🧱 Tech Stack
 
-### 백엔드
+### Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### 클라우드 · 인프라
+### Cloud · Infrastructure
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 
-### 프론트엔드 · 데이터
+### Frontend · Data
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
@@ -46,45 +46,31 @@
 
 ## 🚀 Projects
 
-### 💸 [AWS 얼마야?](https://github.com/dlwldP/Awscal) — 초보자용 AWS 비용 계산기 `2026.10`
-> "하고 싶은 것"을 고르면 필요한 AWS 구성과 예상 월 비용을 비교해줍니다. · [바로 써보기](https://dlwldp.github.io/Awscal/?utm_source=github-profile)
-* 목적별 템플릿 6종 × 규모 프리셋 3종 × 리전 6곳, 구성안 2~3개를 항목별 금액과 함께 비교
-* **숨은 비용 경고**: 퍼블릭 IPv4, NAT Gateway, 데이터 전송, 상시 실행, Multi-AZ 등 초보자가 놓치는 과금 항목을 금액과 함께 알려줌
-* EC2·RDS·Lambda·S3·Bedrock 등 17종 서비스를 직접 담아 계산하는 계산기, 사용 시간·옵션 조정 지원
-* **견적 공유**: 조건과 직접 바꾼 값까지 링크에 담아 공유하고, 슬랙·카카오톡용 요약 복사 지원. 미리보기 제목에 견적 금액이 보이는 공유 페이지를 배포 때 자동 생성
-* 추천 구성별 단계 가이드, 비용 감각 퀴즈, 용어 사전으로 처음 쓰는 사람도 따라갈 수 있게 구성
-* **AWS Price List API로 주 1회 가격 자동 갱신**: 수집 → 테스트 → 커밋 → 재배포를 GitHub Actions로 자동화하고, 실패하면 기존 가격 유지
-* 서버 없이 순수 HTML/JS로 만들어 GitHub Pages에 배포(테스트 통과 시에만 배포), 쿠키 없는 방문 분석(GoatCounter)
+### 💸 [AWS 얼마야? (How Much on AWS?)](https://github.com/dlwldP/Awscal) — AWS Cost Calculator for Beginners `2026.10`
+> Pick what you want to build and compare AWS setups with estimated monthly costs. · [Try it](https://dlwldp.github.io/Awscal/?utm_source=github-profile)
+* Itemized cost comparison with warnings for hidden charges (NAT Gateway, public IPv4, data transfer, etc.)
+* Weekly price updates via the AWS Price List API, automated with GitHub Actions
 * `JavaScript` `Python` `GitHub Actions` `GitHub Pages`
 
-### 🤖 [AI 뭐 써?](https://github.com/dlwldP/which-ai) — 하고 싶은 일별 AI 도구 모음 `2026.10`
-> "이미지 만들 땐 뭐가 있지?"에 답해줍니다. 용도별로 쓸 수 있는 AI를 최대한 많이 모아 무료인지, 어떻게 쓰는지만 짧게 보여줍니다. · [바로 써보기](https://dlwldp.github.io/which-ai/?utm_source=github-profile) · [개발자용](https://dlwldp.github.io/which-ai/dev/?utm_source=github-profile)
-* 비개발자용 115개를 글쓰기·회의·이미지·영상·AI 비서 5가지 용도로 정리하고, 찾기·무료만 보기·설치 없이 쓰기 조건으로 좁히기
-* **개발자용 178개**: 코드 짜기부터 백엔드·배포까지 5단계마다 회사 서비스(37), 오픈소스(119), 공개 모델(22)로 묶어 라이선스 근거와 함께 제공
-* **가격은 공식 문장으로만**: AI가 공식 페이지를 읽고 초안을 쓰면, 스크립트가 근거 문장을 저장한 공식 페이지 글자와 대조해 통과한 것만 반영. 모르면 "가격 확인 필요"로 표시
-* **주간 자동 점검**: 확인한 지 90일이 지난 도구와 깨진 링크를 GitHub Actions가 Issue로 모으고, 주간 요약 생성
-* 사이트에서 AI를 부르지 않는 규칙 기반 정렬, 광고·제휴 없음, 쿠키 없는 방문 분석(GoatCounter)
-* 서버·외부 패키지 없이 순수 HTML/JS로 만들어 GitHub Pages에 배포, 운영비 0원
+### 🤖 [AI 뭐 써? (Which AI?)](https://github.com/dlwldP/which-ai) — AI Tools Organized by Use Case `2026.10`
+> 290+ AI tools sorted by what you want to do, showing whether each is free and how to use it. · [Try it](https://dlwldp.github.io/which-ai/?utm_source=github-profile) · [For developers](https://dlwldp.github.io/which-ai/dev/?utm_source=github-profile)
+* Pricing taken only from official pages, verified by a script against the source text
+* Weekly GitHub Actions checks for stale entries and broken links
 * `JavaScript` `GitHub Actions` `GitHub Pages`
 
-### 🔍 [KubeLens](https://github.com/dlwldP/KubeLens) — 자연어 Kubernetes 장애 진단 에이전트 `2026.10`
-> "왜 이 파드가 계속 죽어?"라고 물으면, **조회만 해서** 근거가 붙은 원인 후보를 보여줍니다.
-* **Read-only를 두 겹으로 보장** — 쓰기·Secret·exec 권한 없는 RBAC + get/list만 노출하는 도구 레이어, 쓰기 API 호출이 소스에 없는지 AST로 테스트
-* **증거 없는 주장 금지** — 모든 원인 후보가 실제 도구 호출 ID를 인용해야 통과, 아니면 재생성
-* **정확도를 측정 가능하게** — kind 클러스터에 장애 6종(CrashLoop, OOMKilled, ImagePull 등)을 재현하고 자동 채점하는 평가 하네스
-* LLM 전달 전 토큰·키·JWT·PEM 마스킹(속성 기반 테스트로 검증), SSE 실시간 트레이스 UI
+### 🔍 [KubeLens](https://github.com/dlwldP/KubeLens) — Natural-Language Kubernetes Troubleshooting Agent `2026.10`
+> Ask "Why does this pod keep dying?" and get evidence-backed root-cause candidates — read-only.
+* Read-only enforced by RBAC and a get/list-only tool layer; every claim must cite a real tool call
+* Evaluation harness that reproduces 6 failure types on a kind cluster and scores accuracy
 * `LangGraph` `FastAPI` `React` `kind` `GitHub Actions`
 
-### 📈 [stock-monitor](https://github.com/dlwldP/stock-monitor) — 관심종목 알림 · 자산 대시보드 `2026.08`
-* 6가지 알림 규칙(목표가·등락률·거래량 급증·신고가/신저가) → 디스코드/이메일/인앱 발송
-* **Mock / 실 API 구현체 분리**로 키 없이도 전 기능 동작, 실계좌 연동까지 검증
-* 캔들 차트를 라이브러리 없이 SVG로 직접 렌더링
-* `Spring Boot` `Java` `증권사 Open API`
+### 📈 [stock-monitor](https://github.com/dlwldP/stock-monitor) — Watchlist Alerts · Portfolio Dashboard `2026.08`
+* 6 alert rules delivered via Discord, email, or in-app; Mock/real API split so it runs without keys
+* `Spring Boot` `Java` `Brokerage Open API`
 
-### 🏠 SWYP 웹 13기 — 자취방 계약 체크리스트 서비스 `2026.03 – 05` · 팀 프로젝트
-* Naver·Google **OAuth2 소셜 로그인**, JWT 발급·검증·갱신 담당
-* AWS EC2 프로비저닝, Elastic IP·DNS 연동, local/prod 프로파일 분리로 배포 인프라 구성
-* `Spring Boot` `AWS` · [서비스 바로가기](https://bangcheck.site)
+### 🏠 SWYP Web Cohort 13 — Rental Contract Checklist Service `2026.03 – 05` · Team Project
+* Built OAuth2 social login (Naver, Google) with JWT, and AWS EC2 deployment infrastructure
+* `Spring Boot` `AWS` · [Visit the service](https://bangcheck.site)
 
 <br/>
 
@@ -97,11 +83,11 @@
 - [오픽 2주 준비로 IH 받은 후기 &lpar;공부법 + 시험장 팁&rpar;](https://velog.io/@jiye_1124/%EC%98%A4%ED%94%BD-2%EC%A3%BC-%EC%A4%80%EB%B9%84%EB%A1%9C-IH-%EB%B0%9B%EC%9D%80-%ED%9B%84%EA%B8%B0-%EA%B3%B5%EB%B6%80%EB%B2%95-%EC%8B%9C%ED%97%98%EC%9E%A5-%ED%8C%81)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [더 많은 글 보기](https://velog.io/@jiye_1124/posts)
+➡️ [See more posts](https://velog.io/@jiye_1124/posts)
 
 <br/>
 
-## 📊 GitHub 통계
+## 📊 GitHub Stats
 ![Top Langs](https://raw.githubusercontent.com/dlwldP/dlwldP/main/profile-summary-card-output/default/1-repos-per-language.svg)
 ![GitHub stats](https://raw.githubusercontent.com/dlwldP/dlwldP/main/profile-summary-card-output/default/3-stats.svg)
 
@@ -112,7 +98,7 @@
 
 <br/>
 
-## 📊 AI Token 사용량
+## 📊 AI Token Usage
 
 <p align="center">
   <a href="https://tokscale.ai/u/dlwldP">
@@ -123,9 +109,9 @@
 <br/>
 
 ## 📬 Contact
-* 📧 이메일 — jiye7961@gmail.com
-* 🌐 포트폴리오 — https://dlwldp.github.io
-* 🎯 기술블로그 — https://velog.io/@jiye_1124/posts
+* 📧 Email — jiye7961@gmail.com
+* 🌐 Portfolio — https://dlwldp.github.io
+* 🎯 Tech Blog — https://velog.io/@jiye_1124/posts
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:326CE5&height=120&section=footer" alt="footer" />
