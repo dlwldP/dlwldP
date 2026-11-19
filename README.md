@@ -28,6 +28,12 @@ I build backend services and the infrastructure they run on, from API design to 
 
 <br/>
 
+## 📜 Certifications
+ 
+**OPIc English** — IH (Intermediate High) · March 2026
+ 
+<br/>
+
 ## 🛠️ Tech Stack
 
 **Backend**<br/>
