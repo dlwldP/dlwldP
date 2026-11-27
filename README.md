@@ -63,8 +63,8 @@ I build backend services and the infrastructure they run on, from API design to 
 
 ## 🚀 Projects
 - **[KubeLens](https://github.com/dlwldP/KubeLens)** — Read-only Kubernetes troubleshooting agent that returns evidence-backed root causes `Oct 2026`
-- **[Awscal](https://github.com/dlwldP/Awscal)** — AWS cost estimator for beginners with weekly auto-updated pricing · [Demo](https://dlwldp.github.io/Awscal/?utm_source=github-profile) `Oct 2026`
-- **[Which AI](https://github.com/dlwldP/which-ai)** — Directory of 290+ AI tools by use case with verified pricing · [Demo](https://dlwldp.github.io/which-ai/?utm_source=github-profile) `Oct 2026`
+- **[Awscal](https://github.com/dlwldP/Awscal)** — AWS cost estimator for beginners with weekly auto-updated pricing · [Demo](https://dlwldp.github.io/Awscal/?utm_source=github-profile) `Oct – Nov 2026`
+- **[Which AI](https://github.com/dlwldP/which-ai)** — Directory of 290+ AI tools by use case with verified pricing · [Demo](https://dlwldp.github.io/which-ai/?utm_source=github-profile) `Oct – Nov 2026`
 - **[stock-monitor](https://github.com/dlwldP/stock-monitor)** — Watchlist alert service and portfolio dashboard built with Spring Boot `Aug 2026`
 - **BangCheck** — Rental contract checklist service; built OAuth2/JWT auth and AWS deployment (team project) · [Live](https://bangcheck.site) `Mar – May 2026`
 
